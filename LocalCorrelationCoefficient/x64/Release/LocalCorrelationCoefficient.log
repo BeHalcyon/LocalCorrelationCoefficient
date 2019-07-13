@@ -1,0 +1,9 @@
+﻿  源.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+e:\project\science_project\localcorrelationcoefficient\localcorrelationcoefficient\源.cpp(46): warning C4244: “初始化”: 从“unsigned __int64”转换到“double”，可能丢失数据
+  正在生成代码
+  1 of 977 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  LocalCorrelationCoefficient.vcxproj -> E:\project\science_project\LocalCorrelationCoefficient\x64\Release\LocalCorrelationCoefficient.exe
